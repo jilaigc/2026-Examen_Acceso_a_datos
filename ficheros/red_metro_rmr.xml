@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<info-trenes-linea-color>
+    <trenes>
+        <tren id="1">
+            <modelo>Serie 2000-A</modelo>
+            <anyo_incorporacion>2000</anyo_incorporacion>
+            <empresa_constructora>CAF</empresa_constructora>
+            <cod_cochera>15</cod_cochera>
+            <linea id_linea="5">
+                <nombre_l>Arguelles - Pinar de Chamartín</nombre_l>
+                <color cod_hex="#741013" id="4">
+                    <descripcion>Marrón</descripcion>
+                </color>
+            </linea>
+        </tren>
+        <tren id="2">
+            <modelo>Serie 2000-B</modelo>
+            <anyo_incorporacion>2005</anyo_incorporacion>
+            <empresa_constructora>CAF</empresa_constructora>
+            <cod_cochera>15</cod_cochera>
+            <linea id_linea="5">
+                <nombre_l>Arguelles - Pinar de Chamartín</nombre_l>
+                <color cod_hex="#741013" id="4">
+                    <descripcion>Marrón</descripcion>
+                </color>
+            </linea>
+        </tren>
+        <tren id="3">
+            <modelo>Serie 3000</modelo>
+            <anyo_incorporacion>2010</anyo_incorporacion>
+            <empresa_constructora>CAF</empresa_constructora>
+            <cod_cochera>15</cod_cochera>
+            <linea id_linea="5">
+                <nombre_l>Arguelles - Pinar de Chamartín</nombre_l>
+                <color cod_hex="#741013" id="4">
+                    <descripcion>Marrón</descripcion>
+                </color>
+            </linea>
+        </tren>
+        <tren id="4">
+            <modelo>Serie 5000</modelo>
+            <anyo_incorporacion>2010</anyo_incorporacion>
+            <empresa_constructora>CAF</empresa_constructora>
+            <cod_cochera>1</cod_cochera>
+            <linea id_linea="9">
+                <nombre_l>Nuevos Ministerios - Aeropuerto</nombre_l>
+                <color cod_hex="#f5418e" id="8">
+                    <descripcion>Rosa</descripcion>
+                </color>
+            </linea>
+        </tren>
+    </trenes>
+</info-trenes-linea-color>

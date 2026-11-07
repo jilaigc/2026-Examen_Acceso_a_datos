@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info-trenes-estaciones-accesos>
+	<!-- Información trenes -->
+	<trenes>
+		<tren id="1">
+			<modelo>Serie 2000-A</modelo>
+			<anyo_incorporacion>2000</anyo_incorporacion>
+			<empresa_constructora>CAF</empresa_constructora>
+			<cod_cochera>15</cod_cochera>
+			<id_linea>5</id_linea>
+		</tren>
+		<tren id="2">
+			<modelo>Serie 2000-B</modelo>
+			<anyo_incorporacion>2005</anyo_incorporacion>
+			<empresa_constructora>CAF</empresa_constructora>
+			<cod_cochera>15</cod_cochera>
+			<id_linea>5</id_linea>
+		</tren>
+		<tren id="3">
+			<modelo>Serie 3000</modelo>
+			<anyo_incorporacion>2010</anyo_incorporacion>
+			<empresa_constructora>CAF</empresa_constructora>
+			<cod_cochera>15</cod_cochera>
+			<id_linea>5</id_linea>
+		</tren>
+		<tren id="4">
+			<modelo>Serie 5000</modelo>
+			<anyo_incorporacion>2010</anyo_incorporacion>
+			<empresa_constructora>CAF</empresa_constructora>
+			<cod_cochera>1</cod_cochera>
+			<id_linea>9</id_linea>
+		</tren>		
+				
+	</trenes>
+
+	<!-- Información estaciones -->
+	<estaciones>
+		<estacion id="1">
+			<nombre>Alameda de Osuna</nombre>
+			<direccion>C/ de la Corbeta,14</direccion>
+			<accesos>
+				<acceso id="1">
+					<nombre>Corbeta: C/ de la Corbeta,14 (esquina calle de La Rioja)</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+				<acceso id="2">
+					<nombre>Ascensor: C/ de la Corbeta,14 (esquina calle de La Rioja)</nombre>
+					<acceso_discapacidad>1</acceso_discapacidad>
+				</acceso>			
+			</accesos>
+		</estacion>
+		<estacion id="2">
+			<nombre>Pueblo Nuevo</nombre>
+			<direccion>C/. Alcalá, 373</direccion>
+			<accesos>
+				<acceso id="3">
+					<nombre>Hermanos de Pablo: Alcalá, 373 (próx. Hnos. de Pablo)</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+				<acceso id="4">
+					<nombre>Emilio Ferrari: Alcalá, 364</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+				<acceso id="5">
+					<nombre>Ascensor: Alcalá, 366</nombre>
+					<acceso_discapacidad>1</acceso_discapacidad>
+				</acceso>
+			</accesos>
+		</estacion>
+		<estacion id="3">
+			<nombre>Avenida de América</nombre>
+			<direccion>Avenida de América nº 25</direccion>
+			<accesos>
+				<acceso id="6">
+					<nombre>Intercambiador: Avenida de América frente al nº 25</nombre>
+					<acceso_discapacidad>1</acceso_discapacidad>
+				</acceso>
+				<acceso id="7">
+					<nombre>Pedro Valdivia: Pedro Valdivia, 31 (Francisco Silvela - Príncipe de Vergara)</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+			</accesos>
+		</estacion>		
+		<estacion id="4">
+			<nombre>Núñez de Balboa</nombre>
+			<direccion>C/. Núñez de Balboa, 85</direccion>
+			<accesos>
+				<acceso id="8">
+					<nombre>Núñez de Balboa: Núñez de Balboa, 85 (Esq. Juan Bravo, 13)</nombre>
+					<acceso_discapacidad>1</acceso_discapacidad>
+				</acceso>
+				<acceso id="9">
+					<nombre>Velázquez: Velázquez, 92 (Esq. Juan Bravo, 11)</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+				<acceso id="10">
+					<nombre>Aparcamiento: Aparcamiento Pza. Marqués de Salamanca (Sólo entrada)</nombre>
+					<acceso_discapacidad>1</acceso_discapacidad>
+				</acceso>
+				<acceso id="11">
+					<nombre>Pza. Marqués de Salamanca: Pza. Marqués de Salamanca, 10</nombre>
+					<acceso_discapacidad>0</acceso_discapacidad>
+				</acceso>
+			</accesos>
+		</estacion>						
+	</estaciones>
+</info-trenes-estaciones-accesos>
