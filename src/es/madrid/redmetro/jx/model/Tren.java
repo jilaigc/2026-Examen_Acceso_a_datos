@@ -1,4 +1,4 @@
-package es.madrid.redmetro.rmr.model;
+package es.madrid.redmetro.jx.model;
 
 import java.time.LocalDate;
 

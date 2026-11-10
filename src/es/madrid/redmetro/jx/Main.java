@@ -1,13 +1,13 @@
-package es.madrid.redmetro.rmr;
+package es.madrid.redmetro.jx;
 
 import java.util.Scanner;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.fichero.EscritorTrenesXML;
-import es.madrid.redmetro.rmr.fichero.LectorCocherasCSV;
-import es.madrid.redmetro.rmr.fichero.LectorTrenesXML;
-import es.madrid.redmetro.rmr.model.Linea;
-import es.madrid.redmetro.rmr.service.LineaService;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.fichero.EscritorTrenesXML;
+import es.madrid.redmetro.jx.fichero.LectorCocherasCSV;
+import es.madrid.redmetro.jx.fichero.LectorTrenesXML;
+import es.madrid.redmetro.jx.model.Linea;
+import es.madrid.redmetro.jx.service.LineaService;
 
 public class Main {
 

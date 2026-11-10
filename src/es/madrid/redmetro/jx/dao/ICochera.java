@@ -1,7 +1,7 @@
-package es.madrid.redmetro.rmr.dao;
+package es.madrid.redmetro.jx.dao;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.model.Cochera;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.model.Cochera;
 
 public interface ICochera {
 	

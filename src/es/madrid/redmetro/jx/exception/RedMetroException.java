@@ -1,4 +1,4 @@
-package es.madrid.redmetro.rmr.exception;
+package es.madrid.redmetro.jx.exception;
 
 public class RedMetroException extends Exception { // crea mi propia excepción. lo hereda de la de java
 	

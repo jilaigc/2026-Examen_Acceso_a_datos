@@ -1,10 +1,10 @@
-package es.madrid.redmetro.rmr.gestores;
+package es.madrid.redmetro.jx.gestores;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
+import es.madrid.redmetro.jx.exception.RedMetroException;
 
 public class GestorConfiguracion {
 	

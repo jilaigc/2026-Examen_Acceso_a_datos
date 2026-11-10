@@ -1,10 +1,10 @@
-package es.madrid.redmetro.rmr.gestores;
+package es.madrid.redmetro.jx.gestores;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
+import es.madrid.redmetro.jx.exception.RedMetroException;
 
 public class GestorConexionBD {
 	

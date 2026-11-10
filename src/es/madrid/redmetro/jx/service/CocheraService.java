@@ -1,9 +1,9 @@
-package es.madrid.redmetro.rmr.service;
+package es.madrid.redmetro.jx.service;
 
-import es.madrid.redmetro.rmr.dao.ICochera;
-import es.madrid.redmetro.rmr.dao.impl.CocheraJDBC;
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.model.Cochera;
+import es.madrid.redmetro.jx.dao.ICochera;
+import es.madrid.redmetro.jx.dao.impl.CocheraJDBC;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.model.Cochera;
 
 public class CocheraService {
 

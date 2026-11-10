@@ -1,13 +1,13 @@
-package es.madrid.redmetro.rmr.fichero;
+package es.madrid.redmetro.jx.fichero;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.gestores.GestorConfiguracion;
-import es.madrid.redmetro.rmr.model.Cochera;
-import es.madrid.redmetro.rmr.service.CocheraService;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.gestores.GestorConfiguracion;
+import es.madrid.redmetro.jx.model.Cochera;
+import es.madrid.redmetro.jx.service.CocheraService;
 
 public class LectorCocherasCSV {
 	

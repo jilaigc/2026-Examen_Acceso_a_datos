@@ -1,4 +1,4 @@
-package es.madrid.redmetro.rmr.fichero;
+package es.madrid.redmetro.jx.fichero;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,12 +13,12 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.gestores.GestorConfiguracion;
-import es.madrid.redmetro.rmr.model.Cochera;
-import es.madrid.redmetro.rmr.model.Linea;
-import es.madrid.redmetro.rmr.model.Tren;
-import es.madrid.redmetro.rmr.service.TrenService;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.gestores.GestorConfiguracion;
+import es.madrid.redmetro.jx.model.Cochera;
+import es.madrid.redmetro.jx.model.Linea;
+import es.madrid.redmetro.jx.model.Tren;
+import es.madrid.redmetro.jx.service.TrenService;
 
 public class LectorTrenesXML {
 

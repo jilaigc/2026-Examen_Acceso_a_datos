@@ -1,14 +1,14 @@
-package es.madrid.redmetro.rmr.dao.impl;
+package es.madrid.redmetro.jx.dao.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import es.madrid.redmetro.rmr.dao.ICochera;
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.gestores.GestorConexionBD;
-import es.madrid.redmetro.rmr.model.Cochera;
+import es.madrid.redmetro.jx.dao.ICochera;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.gestores.GestorConexionBD;
+import es.madrid.redmetro.jx.model.Cochera;
 
 public class CocheraJDBC implements ICochera {
 

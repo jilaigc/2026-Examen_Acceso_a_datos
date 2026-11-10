@@ -1,9 +1,9 @@
-package es.madrid.redmetro.rmr.dao;
+package es.madrid.redmetro.jx.dao;
 
 import java.util.List;
 
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.model.Tren;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.model.Tren;
 
 public interface ITren {
 	

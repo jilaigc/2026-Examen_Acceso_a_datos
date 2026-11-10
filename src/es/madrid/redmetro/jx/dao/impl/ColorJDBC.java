@@ -1,7 +1,7 @@
-package es.madrid.redmetro.rmr.dao.impl;
+package es.madrid.redmetro.jx.dao.impl;
 
-import es.madrid.redmetro.rmr.dao.IColor;
-import es.madrid.redmetro.rmr.model.Color;
+import es.madrid.redmetro.jx.dao.IColor;
+import es.madrid.redmetro.jx.model.Color;
 
 public class ColorJDBC implements IColor {
 

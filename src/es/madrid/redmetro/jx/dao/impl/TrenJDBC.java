@@ -1,4 +1,4 @@
-package es.madrid.redmetro.rmr.dao.impl;
+package es.madrid.redmetro.jx.dao.impl;
 
 import java.sql.Connection;
 import java.sql.Date;
@@ -8,13 +8,13 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import es.madrid.redmetro.rmr.dao.ITren;
-import es.madrid.redmetro.rmr.exception.RedMetroException;
-import es.madrid.redmetro.rmr.gestores.GestorConexionBD;
-import es.madrid.redmetro.rmr.model.Cochera;
-import es.madrid.redmetro.rmr.model.Color;
-import es.madrid.redmetro.rmr.model.Linea;
-import es.madrid.redmetro.rmr.model.Tren;
+import es.madrid.redmetro.jx.dao.ITren;
+import es.madrid.redmetro.jx.exception.RedMetroException;
+import es.madrid.redmetro.jx.gestores.GestorConexionBD;
+import es.madrid.redmetro.jx.model.Cochera;
+import es.madrid.redmetro.jx.model.Color;
+import es.madrid.redmetro.jx.model.Linea;
+import es.madrid.redmetro.jx.model.Tren;
 
 public class TrenJDBC implements ITren {
 
